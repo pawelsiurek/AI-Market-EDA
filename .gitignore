@@ -3,7 +3,6 @@ __pycache__/
 *.pyc
 .env
 .kaggle/
-*.csv
 *.zip
 .DS_Store
 .vscode/
